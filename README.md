@@ -1,4 +1,4 @@
-Candy crush en C
+Candy crush en C sur terminal
 
 
 Notre structure de données comporte un plateau, ce plateau est défini par une taille
